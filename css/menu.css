@@ -1,0 +1,30 @@
+
+header{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 80px;
+    padding: 1rem;
+    justify-content: space-between;
+    background: #000;
+}
+#lista {
+    display: flex;
+    list-style: none;
+    gap: .1rem;
+}
+#lista li {
+    text-decoration: none;
+    font-size: 1rem;
+}
+header a {
+    text-decoration: none;
+    color: #fff;
+    padding: .2rem;
+}
+#logo {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.somos-corpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.somos-texto{
+    flex: 6 1 160px;
+}
+.somos-imagem{
+    flex: 1 1 350px;
+}
