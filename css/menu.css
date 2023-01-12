@@ -11,7 +11,8 @@ header{
 #lista {
     display: flex;
     list-style: none;
-    gap: .1rem;
+    gap: .2rem;
+    padding: 10px 30px;
 }
 #lista li {
     text-decoration: none;
@@ -27,4 +28,7 @@ header a {
     color: #fff;
     font-size: 1.6rem;
     font-weight: bold;
+    left: 35px;
+    position: relative;
+    
 }
